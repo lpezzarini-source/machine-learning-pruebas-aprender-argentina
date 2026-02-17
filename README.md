@@ -15,7 +15,7 @@ To enhance interpretability, the analysis relies on **SHAP values**, allowing th
 ## Repository structure
 
 - `inputs/`  
-  Processed datasets used in the analysis + raw microdata. IMPORTAN: Due to the file size, the student data could not be uploaded. The database can be found at the following link:https://drive.google.com/drive/folders/1vit7q4sz8VN6nwTKGDYo4Lo-qayxf8yX?usp=drive_link
+  Raw microdata  and processed datasets used in the analysis.   IMPORTAN: Due to the file size, the student raw database could not be uploaded. It can be found at the following link:https://drive.google.com/drive/folders/1vit7q4sz8VN6nwTKGDYo4Lo-qayxf8yX?usp=drive_link
   
 - `scripts/`  
   Python scripts used for data preparation and model training.
